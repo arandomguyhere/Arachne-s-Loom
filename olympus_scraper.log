@@ -1,2 +1,5 @@
-2025-06-21 06:33:25,713 [INFO] Fetched successfully: https://html.duckduckgo.com/html/?q=site:pastebin.com "stealer logs"
-2025-06-21 06:33:28,458 [INFO] Hermes has delivered 0 scrolls from Olympus! 🏛️
+2025-06-21 12:47:15,442 [WARNING] Unexpected status code 403 for https://html.duckduckgo.com/html/?q=site:pastebin.com "stealer logs"
+2025-06-21 12:47:18,951 [WARNING] Unexpected status code 403 for https://html.duckduckgo.com/html/?q=site:pastebin.com "stealer logs"
+2025-06-21 12:47:23,750 [WARNING] Unexpected status code 403 for https://html.duckduckgo.com/html/?q=site:pastebin.com "stealer logs"
+2025-06-21 12:47:33,584 [ERROR] Failed to fetch after 3 attempts: https://html.duckduckgo.com/html/?q=site:pastebin.com "stealer logs"
+2025-06-21 12:47:33,584 [INFO] Hermes has delivered 0 scrolls from Olympus! 🏛️
