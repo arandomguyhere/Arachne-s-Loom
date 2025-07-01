@@ -402,8 +402,7 @@ Save this as `exploit.sh`, make it executable with `chmod +x exploit.sh`, and ru
 
 - [TryHackMe Room](https://tryhackme.com/room/roundcubecve202549113)
 - [Exploit Repository](https://github.com/fearsoff-org/CVE-2025-49113)
-- [Kirill Firsov's Research](https://kirill-firsov.github.io/)
-- [Roundcube Security Advisory](https://roundcube.net/news/security-updates-1.6.11-and-1.5.10)
+
 
 ## Educational Resources
 
